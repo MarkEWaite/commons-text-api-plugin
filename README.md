@@ -1,7 +1,7 @@
 commons-text-api Plugin
 ===================
 
-[![Build Status](https://ci.jenkins.io/job/Plugins/job/commons-text-api-plugin/job/main/badge/icon)](https://ci.jenkins.io/job/Plugins/job/commons-text-api-plugin/job/main/)
+[![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins%2Fcommons-text-api-plugin%2Fmain)](https://ci.jenkins.io/job/Plugins/job/commons-text-api-plugin/job/main/)
 [![Contributors](https://img.shields.io/github/contributors/jenkinsci/commons-text-api-plugin.svg)](https://github.com/jenkinsci/commons-text-api-plugin/graphs/contributors)
 [![Jenkins Plugin](https://img.shields.io/jenkins/plugin/v/commons-text-api.svg)](https://plugins.jenkins.io/commons-text-api)
 [![GitHub release](https://img.shields.io/github/v/tag/jenkinsci/commons-text-api-plugin?label=changelog)](https://github.com/jenkinsci/commons-text-api-plugin/blob/main/CHANGELOG.md)
